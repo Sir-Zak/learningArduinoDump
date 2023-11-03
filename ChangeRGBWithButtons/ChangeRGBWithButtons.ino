@@ -1,5 +1,5 @@
-//www.elegoo.com
-//2016.12.08
+//Sir-Zak
+//11/2/2023
 
 
 // Initial setup, naming the each pin
