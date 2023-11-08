@@ -1,0 +1,1 @@
+Super simple circuit that cycles up or down through an array of tones based on button presses. Press the up button, the pitch raises. Press the down button, the pitch decreases.
